@@ -2,7 +2,7 @@
 
 This project involves the development of a Course Scheduling application for a college, aimed at facilitating the scheduling of courses by semester. The application will have a user-friendly GUI and will be driven by a Derby database. Emphasis is placed on Object-Oriented Design and Programming, with a requirement for at least four classes besides the main GUI class.
 
-Admin Functions (Implemented in Part 1):
+# Admin Functions (Implemented in Part 1):
 
     Add Semester: Add a semester to the database, identified by a name.
     Add Course: Add a new course to the database, identified by a code and description.
@@ -15,14 +15,6 @@ Admin Functions (Implemented in Part 1):
     Display Schedule: Display the current schedule of classes for a specified student in the current semester, showing course code and status (scheduled or waitlisted).
     Display Classes: Display a complete list of classes for the current semester, showing course code, description, and number of seats.
 
-Testing Scenario:
-A testing scenario, named "Final Project Part 1 Test Script," will be provided to assist in testing the application.
-
-Database Considerations:
-The database will be created, but all tables should be empty when submitted.
-
-Initial NetBeans Project:
-An initial project, provided as a .zip file, must 
 # GUI Guidelines:
 
     Use drop-down lists (Combo Boxes) for known data.
